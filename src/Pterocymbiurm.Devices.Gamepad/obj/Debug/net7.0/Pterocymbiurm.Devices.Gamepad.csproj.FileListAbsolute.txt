@@ -1,0 +1,17 @@
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.csproj.AssemblyReference.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.AssemblyInfoInputs.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.AssemblyInfo.cs
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.csproj.CoreCompileInputs.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.deps.json
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.Devices.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.Devices.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.csproj.CopyComplete
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\refint\Pterocymbiurm.Devices.Gamepad.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\Pterocymbiurm.Devices.Gamepad.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\obj\Debug\net7.0\ref\Pterocymbiurm.Devices.Gamepad.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices.Gamepad\bin\Debug\net7.0\Pterocymbiurm.pdb

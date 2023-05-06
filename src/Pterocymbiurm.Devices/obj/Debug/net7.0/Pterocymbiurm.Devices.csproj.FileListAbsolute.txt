@@ -1,0 +1,15 @@
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.csproj.AssemblyReference.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.AssemblyInfoInputs.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.AssemblyInfo.cs
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.csproj.CoreCompileInputs.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\bin\Debug\net7.0\Pterocymbiurm.Devices.deps.json
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\bin\Debug\net7.0\Pterocymbiurm.Devices.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\bin\Debug\net7.0\Pterocymbiurm.Devices.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\refint\Pterocymbiurm.Devices.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\ref\Pterocymbiurm.Devices.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\bin\Debug\net7.0\Pterocymbiurm.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\bin\Debug\net7.0\Pterocymbiurm.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm.Devices\obj\Debug\net7.0\Pterocymbiurm.Devices.csproj.CopyComplete
