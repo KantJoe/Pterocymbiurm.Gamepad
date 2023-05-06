@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "sample", "sample", "{B1F86E08-3A6D-40FE-9E99-2C241692F828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pterocymbiurm.Gamepad.WpfUI", "..\samples\Pterocymbiurm.Gamepad.WpfUI\Pterocymbiurm.Gamepad.WpfUI.csproj", "{FE6AEC8F-6616-440B-BB86-425C96E3BF16}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "device", "device", "{BE56034D-02BA-4ADE-99A9-6286ED5F342C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pterocymbiurm.Devices", "Pterocymbiurm.Devices\Pterocymbiurm.Devices.csproj", "{497D809E-F287-486A-8366-326F5C4DB9F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Impl", "Impl", "{83690976-CC09-4DBE-AE93-C368ABA43A94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pterocymbiurm.Devices.Gamepad", "Pterocymbiurm.Devices.Gamepad\Pterocymbiurm.Devices.Gamepad.csproj", "{572EA846-045E-496F-8E25-978C477AD580}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pterocymbiurm", "Pterocymbiurm\Pterocymbiurm.csproj", "{FA9E0E24-A25D-423A-AAF4-736430C9E3CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE6AEC8F-6616-440B-BB86-425C96E3BF16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6AEC8F-6616-440B-BB86-425C96E3BF16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6AEC8F-6616-440B-BB86-425C96E3BF16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6AEC8F-6616-440B-BB86-425C96E3BF16}.Release|Any CPU.Build.0 = Release|Any CPU
+		{497D809E-F287-486A-8366-326F5C4DB9F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{497D809E-F287-486A-8366-326F5C4DB9F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{497D809E-F287-486A-8366-326F5C4DB9F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{497D809E-F287-486A-8366-326F5C4DB9F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{572EA846-045E-496F-8E25-978C477AD580}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{572EA846-045E-496F-8E25-978C477AD580}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{572EA846-045E-496F-8E25-978C477AD580}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{572EA846-045E-496F-8E25-978C477AD580}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA9E0E24-A25D-423A-AAF4-736430C9E3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA9E0E24-A25D-423A-AAF4-736430C9E3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA9E0E24-A25D-423A-AAF4-736430C9E3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA9E0E24-A25D-423A-AAF4-736430C9E3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FE6AEC8F-6616-440B-BB86-425C96E3BF16} = {B1F86E08-3A6D-40FE-9E99-2C241692F828}
+		{497D809E-F287-486A-8366-326F5C4DB9F3} = {BE56034D-02BA-4ADE-99A9-6286ED5F342C}
+		{83690976-CC09-4DBE-AE93-C368ABA43A94} = {BE56034D-02BA-4ADE-99A9-6286ED5F342C}
+		{572EA846-045E-496F-8E25-978C477AD580} = {83690976-CC09-4DBE-AE93-C368ABA43A94}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A8268DF6-7399-4B91-9536-F2695D8EF999}
+	EndGlobalSection
+EndGlobal

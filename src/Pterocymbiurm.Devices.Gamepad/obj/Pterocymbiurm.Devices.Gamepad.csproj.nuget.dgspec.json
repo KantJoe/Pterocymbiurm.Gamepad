@@ -1,0 +1,199 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices.Gamepad\\Pterocymbiurm.Devices.Gamepad.csproj": {}
+  },
+  "projects": {
+    "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices.Gamepad\\Pterocymbiurm.Devices.Gamepad.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices.Gamepad\\Pterocymbiurm.Devices.Gamepad.csproj",
+        "projectName": "Pterocymbiurm.Devices.Gamepad",
+        "projectPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices.Gamepad\\Pterocymbiurm.Devices.Gamepad.csproj",
+        "packagesPath": "C:\\Users\\Kant\\.nuget\\packages\\",
+        "outputPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices.Gamepad\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices\\Pterocymbiurm.Devices.csproj": {
+                "projectPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices\\Pterocymbiurm.Devices.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices\\Pterocymbiurm.Devices.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices\\Pterocymbiurm.Devices.csproj",
+        "projectName": "Pterocymbiurm.Devices",
+        "projectPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices\\Pterocymbiurm.Devices.csproj",
+        "packagesPath": "C:\\Users\\Kant\\.nuget\\packages\\",
+        "outputPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm.Devices\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm\\Pterocymbiurm.csproj": {
+                "projectPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm\\Pterocymbiurm.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm\\Pterocymbiurm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm\\Pterocymbiurm.csproj",
+        "projectName": "Pterocymbiurm",
+        "projectPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm\\Pterocymbiurm.csproj",
+        "packagesPath": "C:\\Users\\Kant\\.nuget\\packages\\",
+        "outputPath": "E:\\git\\Pterocymbiurm\\src\\Pterocymbiurm\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kant\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

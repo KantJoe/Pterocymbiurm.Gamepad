@@ -1,0 +1,12 @@
+E:\git\Pterocymbiurm\src\Pterocymbiurm\bin\Debug\net7.0\Pterocymbiurm.deps.json
+E:\git\Pterocymbiurm\src\Pterocymbiurm\bin\Debug\net7.0\Pterocymbiurm.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm\bin\Debug\net7.0\Pterocymbiurm.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.csproj.AssemblyReference.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.GeneratedMSBuildEditorConfig.editorconfig
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.AssemblyInfoInputs.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.AssemblyInfo.cs
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.csproj.CoreCompileInputs.cache
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\refint\Pterocymbiurm.dll
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\Pterocymbiurm.pdb
+E:\git\Pterocymbiurm\src\Pterocymbiurm\obj\Debug\net7.0\ref\Pterocymbiurm.dll
